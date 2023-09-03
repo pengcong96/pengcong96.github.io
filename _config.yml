@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cong Peng - WHU"
+title                    : "Cong Peng's Homepage"
 title_separator          : "-"
 name                     : &name "Cong Peng"
 description              : &description "Associate Professor at Wuhan University"
