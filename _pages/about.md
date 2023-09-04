@@ -14,4 +14,6 @@ Cong Peng is an associate professor in the [School of Cyber Science and Engineer
 
 # Research Interests
 
-Cryptography, Data Security
+* Cryptography
+* Post-Quantum Cryptography
+* Data Security
